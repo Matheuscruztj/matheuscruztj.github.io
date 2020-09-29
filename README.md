@@ -37,8 +37,8 @@
 * Criação de uma ferramenta em Python para ETL (suporte a multi-threading), convertendo dados do banco de dados Oracle para MySql.
 * Sistema web com funcionalidade de pesquisa por boleto e XML.
 * Sistema desktop FlexX Suite para os brokers Garoto/Nestlé, que auxilia com os indicadores para gerenciamento de resultados da equipe comercial (exemplo: relatório de corte mensal e identificador de problemas nos pedidos retornados pelo sistema de faturamento).
-* Modelo Preditivo utilizando aprendizado de máquina para determinar a cor de uma planta. [Link](https://github.com/Matheuscruztj/Projeto-IRIS)
-* Conversor de senhas do tipo KTR (Keetle Transformation) [Link](https://github.com/Matheuscruztj/Pentaho-KTR-Password-Translator)
+* Modelo Preditivo utilizando aprendizado de máquina para determinar a cor de uma planta. [Link](https://github.com/Matheuscruztj/Projeto-IRIS/)
+* Conversor de senhas do tipo KTR (Keetle Transformation). [Link](https://github.com/Matheuscruztj/Pentaho-KTR-Password-Translator/)
 
 ## Sistemas:
 * [DevRadar](https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/README.md)
