@@ -39,5 +39,6 @@
 * Sistema desktop FlexX Suite para os brokers Garoto/Nestlé, que auxilia com os indicadores para gerenciamento de resultados da equipe comercial (exemplo: relatório de corte mensal e identificador de problemas nos pedidos retornados pelo sistema de faturamento).
 
 ## Sistemas:
-* DevRadar: com o objetivo de desenvolvedores cadastrarem o seu perfil do github juntamente com as suas tecnologias e posições geográficas(latitude e longitude), para que no ambiente web sejam mostrados todos os perfis já cadastrados (com informações de bio e link para o seu perfil) e no ambiente mobile com base na localização geográfica os perfis são exibidos.
+* [DevRadar](https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/README.md)
+Com o objetivo de desenvolvedores cadastrarem o seu perfil do github juntamente com as suas tecnologias e posições geográficas(latitude e longitude), para que no ambiente web sejam mostrados todos os perfis já cadastrados (com informações de bio e link para o seu perfil) e no ambiente mobile com base na localização geográfica os perfis são exibidos.
 <img align="" src="https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/poc/inscricao_real_time.gif" width="400" alt="Demonstrativo novo cadastro durante a busca atual">
