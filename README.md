@@ -40,4 +40,4 @@
 
 ## Sistemas:
 * DevRadar: com o objetivo de desenvolvedores cadastrarem o seu perfil do github juntamente com as suas tecnologias e posições geográficas(latitude e longitude), para que no ambiente web sejam mostrados todos os perfis já cadastrados (com informações de bio e link para o seu perfil) e no ambiente mobile com base na localização geográfica os perfis são exibidos.
-![Demonstrativo novo cadastro durante a busca atual](https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/poc/inscricao_real_time.gif){:height="50%" width="50%"}
+![Demonstrativo novo cadastro durante a busca atual](https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/poc/inscricao_real_time.gif)
