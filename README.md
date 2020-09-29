@@ -16,8 +16,8 @@
 * BI - Power BI e Report Services-PBI Mobile
 * ETL (Extração, transformação e carregamento de dados) - Pentaho 
 * Automatização de Tarefas
-* Ciência de Dados
-* Atualmente aprendendo sobre ChatBot
+* Ciência de Dados (Classificação, Predição e ML)
+* Atualmente aprendendo sobre ChatBot - IBM Watson e Dialog Flow
 
 ## Tecnologias:
 * PHP, Laravel
@@ -30,3 +30,8 @@
 * Java
 * C#
 * Electron JS
+* Moodle
+
+## Projetos:
+* Desenvolvimento do Robo (ChatBot) de suporte para o GLPI (sistema de controle de chamado) com funções:
+** Criação de log, triagem de chamados, suporte a api de email, integração com o ERP WinThor.
