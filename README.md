@@ -12,7 +12,7 @@
 * Microsoft Office Specialist
 
 ## Conhecimentos
-* Programação: desenvolvimento de sistemas Desktop, Web ou Mobile
+* Programação: desenvolvimento de sistemas Desktop, Web ou Mobile e modelagem de sites
 * BI - Power BI e Report Services-PBI Mobile
 * ETL (Extração, transformação e carregamento de dados) - Pentaho/Visual Studio
 * Automatização de Tarefas
@@ -36,3 +36,9 @@
 * Desenvolvimento do Robo (ChatBot) de suporte para o GLPI (sistema de controle de chamado) com funções: criação de log, triagem de chamados, suporte a api de email, integração com o ERP WinThor.
 * Criação de uma ferramenta em Python para ETL (suporte a multi-threading), convertendo dados do banco de dados Oracle para MySql.
 * Sistema web com funcionalidade de pesquisa por boleto e XML.
+* Sistema desktop FlexX Suite para os brokers Garoto/Nestlé, que auxilia com os indicadores para gerenciamento de resultados da equipe comercial (exemplo: relatório de corte mensal e identificador de problemas nos pedidos retornados pelo sistema de faturamento).
+
+## Sistemas:
+* DevRadar
+Com o objetivo de desenvolvedores cadastrarem o seu perfil do github juntamente com as suas tecnologias e posições geográficas(latitude e longitude), para que no ambiente web sejam mostrados todos os perfis já cadastrados (com informações de bio e link para o seu perfil) e no ambiente mobile com base na localização geográfica os perfis são exibidos.
+![Demonstrativo novo cadastro durante a busca atual](https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/poc/inscricao_real_time.gif)
