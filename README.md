@@ -12,12 +12,12 @@
 * Microsoft Office Specialist
 
 ## Conhecimentos
-* Programação
+* Programação: desenvolvimento de sistemas Desktop, Web ou Mobile
 * BI - Power BI e Report Services-PBI Mobile
-* ETL (Extração, transformação e carregamento de dados) - Pentaho 
+* ETL (Extração, transformação e carregamento de dados) - Pentaho/Visual Studio
 * Automatização de Tarefas
 * Ciência de Dados (Classificação, Predição e ML)
-* Atualmente aprendendo sobre ChatBot - IBM Watson e Dialog Flow
+* Atualmente aprendendo sobre ChatBot - IBM Watson/Dialog Flow
 
 ## Tecnologias:
 * PHP, Laravel
@@ -33,5 +33,6 @@
 * Moodle
 
 ## Projetos:
-* Desenvolvimento do Robo (ChatBot) de suporte para o GLPI (sistema de controle de chamado) com funções:
-** Criação de log, triagem de chamados, suporte a api de email, integração com o ERP WinThor.
+* Desenvolvimento do Robo (ChatBot) de suporte para o GLPI (sistema de controle de chamado) com funções: criação de log, triagem de chamados, suporte a api de email, integração com o ERP WinThor.
+* Criação de uma ferramenta em Python para ETL (suporte a multi-threading), convertendo dados do banco de dados Oracle para MySql.
+* Sistema web com funcionalidade de pesquisa por boleto e XML.
