@@ -2,7 +2,7 @@
 ### Especialização em Segurança Digital
 
 ## Certificações
-* Scrum Foundation Professional Certificate (SFPC
+* Scrum Foundation Professional Certificate (SFPC)
 * Fortinet NSE1/NSE2
 * CNSS (Certified Network Security Specialist)
 * ITIL 4 Essentials
