@@ -37,8 +37,14 @@
 * Criação de uma ferramenta em Python para ETL (suporte a multi-threading), convertendo dados do banco de dados Oracle para MySql.
 * Sistema web com funcionalidade de pesquisa por boleto e XML.
 * Sistema desktop FlexX Suite para os brokers Garoto/Nestlé, que auxilia com os indicadores para gerenciamento de resultados da equipe comercial (exemplo: relatório de corte mensal e identificador de problemas nos pedidos retornados pelo sistema de faturamento).
+* Modelo Preditivo utilizando aprendizado de máquina para determinar a cor de uma planta. ![Link](https://github.com/Matheuscruztj/Projeto-IRIS)
+* Conversor de senhas do tipo KTR (Keetle Transformation) ![Link](https://github.com/Matheuscruztj/Pentaho-KTR-Password-Translator)
 
 ## Sistemas:
 * [DevRadar](https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/README.md)
 Com o objetivo de desenvolvedores cadastrarem o seu perfil do github juntamente com as suas tecnologias e posições geográficas(latitude e longitude), para que no ambiente web sejam mostrados todos os perfis já cadastrados (com informações de bio e link para o seu perfil) e no ambiente mobile com base na localização geográfica os perfis são exibidos.
 <img align="" src="https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/poc/inscricao_real_time.gif" width="400" alt="Demonstrativo novo cadastro durante a busca atual">
+* [BeTheHero](https://github.com/Matheuscruztj/Semana_Omnistack_11/blob/master/README.md)
+Com o objetivo de usuários ajudarem ONG's na resolução de casos de animais que sofreram algum problema.
+* [AirCnc](https://github.com/Matheuscruztj/Semana_Omnistack_9)
+Plataforma de agendamento entre empresas e profissionais freelancers.
