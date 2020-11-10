@@ -16,7 +16,7 @@
 * BI - Power BI e Report Services-PBI Mobile.
 * ETL (Extração, transformação e carregamento de dados) - Job.
 * Data Science (Classificação, Predição e Machine Learning).
-* Scanning de rede, análise de vulnerabilidade, web exploitatio.
+* Scanning de rede, análise de vulnerabilidade, web exploitation.
 * Atualmente aprendendo sobre ChatBot - IBM Watson/Dialog Flow.
 
 ## Tecnologias:
