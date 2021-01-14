@@ -52,6 +52,7 @@
 	- Spring Boot (atualmente aprendendo).
 	- Thymeleaf como template.
 	- Maven (Gerenciador de versão dos pacotes).
+	- Jasper Reports
 * Chatbot
 	- DialogFlow
 	
