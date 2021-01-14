@@ -16,32 +16,75 @@
 * BI - Power BI e Report Services-PBI Mobile.
 * ETL (Extração, transformação e carregamento de dados) - Job.
 * Data Science (Classificação, Predição e Machine Learning).
-* Scanning de rede, análise de vulnerabilidade, web exploitation.
-* Atualmente aprendendo sobre ChatBot - IBM Watson/Dialog Flow.
 
 ## Tecnologias:
 * Git: versionamento de código.
-* PHP, Laravel: criação de sites e API rest, com validação JWT.
-* SQL (Oracle, Sql Server, MySQL, MongoDB): DML e PL/SQL (Trigger/Procedure).
+* PHP, Laravel
+	- Criação de sites.
+	- API rest, com validação JWT.
+* SQL (Oracle, Sql Server, MySQL, MongoDB)
+	- DML.
+	- PL/SQL (Trigger/Procedure).
 * HTML, CSS, JavaScript, jQuery.
-* Python: orientação a objeto, web scraping e multi-thread.
-* Node JS: criação de servidor Web e API rest, consumo de web service e resposta em tempo real.
-* React JS: criação de sites e consumo de API.
-* React Native: criação sistemas hibridos (iOs e Android), consumo de API, navegabilidade entre telas, utilização de recursos nativos (GPS, mapa, Whatsapp e email).
-* Java: orientação a objeto para criação de aplicações Web e desktop com Hibernate de ORM, JSP, JSF, Maven (Gerenciamento de versão dos pacotes).
+* Python
+	- Orientação a objeto.
+	- Web scraping.
+	- Multi-thread.
+* Node JS
+	- Criação de servidor Web.
+	- Criação de API rest com conceito de JWT.
+	- Consumo de web service.
+	- Resposta em tempo real.
+* React JS
+	- Criação de sites SPA (Single Page Applications).
+	- Consumo de API rest.
+* React Native
+	- Criação sistemas hibridos (iOs e Android).
+	- Consumo de API rest.
+	- Navegabilidade entre telas.
+	- Utilização de recursos nativos (GPS, mapa, Whatsapp e email).
+* Java
+	- Orientação a objeto.
+	- Criação de aplicações Web e desktop.
+	- Hibernate(JPA) de ORM.
+	- JSP.
+	- Spring Boot (atualmente aprendendo).
+	- Thymeleaf como template.
+	- Maven (Gerenciador de versão dos pacotes).
+* Chatbot
+	- DialogFlow
+	
 * C#: criação de aplicativo desktop de CRUD com MySQL e SQLServer.
 * Electron JS: criação de aplicativo desktop utilizando JavaScript.
 * Moodle: plataforma de EAD online.
-* Pentaho Data Integration (Intermediário) : criação de transformações com steps (busca, data warehouse) e jobs. Uso de cargas para fase de stage, DW.
-* Power BI: importação de dados, uso de DAX e dashboards.
+* Pentaho Data Integration (Intermediário)
+	- Criação de transformações com steps (busca, data warehouse) e jobs.
+	- Uso de cargas para fase de stage no DW.
+	- Utilização de variáveis para transição de informações durante as transformações.
+	- Consumo de API Rest.
+	- Utilização de chamadas de procedures do banco de dados.
+* Power BI
+	- Importação de dados
+	- Uso de DAX
+	- Criação de dashboards.
+
+## Artigos publicados
+* [Carga incremental variada usando loop no Pentaho](https://www.linkedin.com/pulse/pentaho-carga-incremental-variada-usando-loop-matheus-da-cruz/)
 
 ## Projetos:
+* Criação do sistema de apuração de campanha para a Unidade (Broker) da Nestlé – Victória Logística, onde é possível acompanhar a premiação por níveis de venda.
+
+* Integração de serviço de mensageria do WhatsApp com chatbot.
+
 * Desenvolvimento do Robo (ChatBot) de suporte para o GLPI (sistema de controle de chamado) com funções: criação de log, triagem de chamados, suporte a api de email, integração com o ERP WinThor.
+
 * Criação de uma ferramenta em Python para ETL (suporte a multi-threading), convertendo dados do banco de dados Oracle para MySql.
+
 * Sistema web com funcionalidade de pesquisa por boleto e XML.
+
 * Sistema desktop FlexX Suite para os brokers Garoto/Nestlé, que auxilia com os indicadores para gerenciamento de resultados da equipe comercial (exemplo: relatório de corte mensal e identificador de problemas nos pedidos retornados pelo sistema de faturamento).
+
 * Modelo Preditivo utilizando aprendizado de máquina para determinar a cor de uma planta. [Link](https://github.com/Matheuscruztj/Projeto-IRIS/)
-* Conversor de senhas do tipo KTR (Keetle Transformation). [Link](https://github.com/Matheuscruztj/Pentaho-KTR-Password-Translator/)
 
 ## Sistemas:
 * [DevRadar](https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/README.md)
