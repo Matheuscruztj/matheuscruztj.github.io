@@ -47,6 +47,7 @@
 	- Orientação a objeto.
 	- Criação de aplicações Web e desktop.
 	- Hibernate(JPA) de ORM.
+	- Servlet com filter.
 	- JSP.
 	- Spring Boot (atualmente aprendendo).
 	- Thymeleaf como template.
