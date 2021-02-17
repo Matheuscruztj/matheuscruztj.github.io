@@ -15,6 +15,9 @@
 * ETL (Extração, transformação e carregamento de dados) - Job.
 * Data Science (Classificação, Predição e Machine Learning).
 
+## Cursos em Andamento
+* Fullstack Angular e Spring
+
 ## Tecnologias:
 * Java
 	- Orientação a objeto.
