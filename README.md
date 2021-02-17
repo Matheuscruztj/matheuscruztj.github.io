@@ -16,7 +16,7 @@
 * Data Science (Classificação, Predição e Machine Learning).
 
 ## Cursos em Andamento
-* Fullstack Angular e Spring
+* Fullstack Angular e Spring (Algaworks)
 
 ## Tecnologias:
 * Java
