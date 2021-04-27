@@ -16,28 +16,30 @@
 * Data Science (Classificação, Predição e Machine Learning).
 
 ## Cursos em Andamento
-* Fullstack Angular e Spring (Algaworks)
+* Laravel - Criação de Rest Api
 
 ## Tecnologias:
+* PHP, Laravel
+	- Criação de sites.
+	- API rest, com validação JWT.
+* Vue
+	- Criação de rotas e componentes.
+	- Utilização de API
+	- Manipulação de dados.
 * Java
 	- Orientação a objeto.
 	- Criação de aplicações Web e desktop.
 	- Hibernate(JPA) de ORM.
 	- Servlet com filter.
 	- JSP.
-	- Spring Boot (atualmente aprendendo).
+	- Spring Boot.
 	- Thymeleaf como template.
 	- Maven (Gerenciador de versão dos pacotes).
 	- Jasper Reports
-	- JUnit (atualmente aprendendo).
-	- Mockito (atualmente aprendendo).
 * Angular
 	- Criação páginas SPA (Single Page Applications).
 	- Consumo de API Rest.
 * Git: versionamento de código.
-* PHP, Laravel
-	- Criação de sites.
-	- API rest, com validação JWT.
 * SQL (Oracle, Sql Server, MySQL, MongoDB)
 	- DML.
 	- PL/SQL (Trigger/Procedure).
