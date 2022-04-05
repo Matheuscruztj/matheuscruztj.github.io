@@ -2,6 +2,8 @@
 ### Especialização em Segurança Digital
 
 ## Certificações
+* Ignite - NodeJs
+* Oracle Certified Foundations Associate
 * Scrum Foundation Professional Certificate (SFPC)
 * Fortinet NSE1/NSE2
 * CNSS (Certified Network Security Specialist)
@@ -16,12 +18,28 @@
 * Data Science (Classificação, Predição e Machine Learning).
 
 ## Cursos em Andamento
-* Laravel - Criação de Rest Api
+* RocketSeat - Ignite Nodejs
 
 ## Tecnologias:
-* PHP, Laravel
+* PHP, Laravel, Symfony
 	- Criação de sites.
 	- API rest, com validação JWT.
+* Node JS
+	- Express
+	- TypeScript
+	- Injeção de dependência com Tsyringe
+	- SOLID
+	- Clean Code/Architecture
+	- TDD - testes unitarios com Jest e testes de integração (E2E) com Supertest
+	- REST
+	- TypeORM
+	- Docker
+	- Autenticação JWT
+	- Documentação com Swagger
+	- AWS - Deploy no EC2, upload de arquivos no S3, configuração de dns no Route 53, banco não relacional com dynamodb
+	- CI/CD - automatização do deploy e pipeline utilizando Github Actions
+	- Rate Limiter (limitador de requisições)
+	- Serverless Framework - automatização e gerenciamento de recursos na cloud
 * Vue
 	- Criação de rotas e componentes.
 	- Utilização de API
@@ -36,9 +54,6 @@
 	- Thymeleaf como template.
 	- Maven (Gerenciador de versão dos pacotes).
 	- Jasper Reports
-* Angular
-	- Criação páginas SPA (Single Page Applications).
-	- Consumo de API Rest.
 * Git: versionamento de código.
 * SQL (Oracle, Sql Server, MySQL, MongoDB)
 	- DML.
@@ -48,19 +63,6 @@
 	- Orientação a objeto.
 	- Web scraping.
 	- Multi-thread.
-* Node JS
-	- Criação de servidor Web.
-	- Criação de API rest com conceito de JWT.
-	- Consumo de web service.
-	- Resposta em tempo real.
-* React JS
-	- Criação de sites SPA.
-	- Consumo de API rest.
-* React Native
-	- Criação sistemas hibridos (iOs e Android).
-	- Consumo de API rest.
-	- Navegabilidade entre telas.
-	- Utilização de recursos nativos (GPS, mapa, Whatsapp e email).
 * Chatbot
 	- DialogFlow
 	
