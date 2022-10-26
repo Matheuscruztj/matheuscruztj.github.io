@@ -90,6 +90,8 @@
 * [Projeto de Machine Learning de predição do dataset Iris](https://github.com/Matheuscruztj/Projeto-IRIS)
 
 ## Projetos:
+* Melhoria de perfomance e inclusão de módulo no projeto do eSocial (nacional) criado pelo TST (Tribunal Superior do Trabalho). [Link](https://github.com/tst-labs/esocial/pull/298)
+
 * Criação do sistema de apuração de campanha para a Unidade (Broker) da Nestlé – Victória Logística, onde é possível acompanhar a premiação por níveis de venda.
 
 * Integração de serviço de mensageria do WhatsApp com chatbot.
