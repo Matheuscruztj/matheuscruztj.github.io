@@ -1,30 +1,26 @@
-### Formado em Sistemas
-### Especialização em Segurança Digital
+### Formado em Sistemas e especializado em Segurança Digital
+### Atualmente estudando para ser arquiteto de soluções - AWS
+### Certificado AWS/OCI
 
 ## Certificações
-* Ignite - NodeJs
+* AWS - Cloud Practitioner
 * Oracle Certified Foundations Associate
-* Scrum Foundation Professional Certificate (SFPC)
-* Fortinet NSE1/NSE2
-* CNSS (Certified Network Security Specialist)
-* Pentest Profissional (Desec Security)
-* Analista de Segurança da Informação (Esecurity)
+* Ignite - NodeJs
 * Microsoft Office Specialist
 
+## Cursos em Andamento
+* AWS - Solutions Architect Associate
+* Desenvolvedor FullCycle - Arquitetura, desenvolvimento e devops
+
 ## Conhecimentos
+* Mensageria: RabbitMQ/Kafka.
 * Programação: desenvolvimento de sistemas Desktop, Web ou Mobile e modelagem de sistemas.
 * BI - Power BI e Report Services-PBI Mobile.
 * ETL (Extração, transformação e carregamento de dados) - Job.
 * Data Science (Classificação, Predição e Machine Learning).
 
-## Cursos em Andamento
-* RocketSeat - Ignite Nodejs
-
 ## Tecnologias:
-* PHP, Laravel, Symfony
-	- Criação de sites.
-	- API rest, com validação JWT.
-* Node JS
+* Node JS/Nest
 	- Express
 	- TypeScript
 	- Injeção de dependência com Tsyringe
@@ -40,6 +36,9 @@
 	- CI/CD - automatização do deploy e pipeline utilizando Github Actions
 	- Rate Limiter (limitador de requisições)
 	- Serverless Framework - automatização e gerenciamento de recursos na cloud
+* PHP, Laravel, Symfony
+	- Criação de sites.
+	- API rest, com validação JWT.
 * Vue
 	- Criação de rotas e componentes.
 	- Utilização de API
