@@ -1,29 +1,30 @@
 ### Formado em Sistemas e especializado em Segurança Digital
-### Atualmente estudando para ser arquiteto de soluções - AWS
-### Certificado AWS/OCI
+### Atualmente estudando para ser arquiteto de soluções e software
 
 ## Certificações
+* AWS - Soluctions Architect Associate
+* AWS - Developer Associate
 * AWS - Cloud Practitioner
 * Oracle Certified Foundations Associate
-* Ignite - NodeJs
 * Microsoft Office Specialist
 
-## Cursos em Andamento
-* AWS - Solutions Architect Associate
-* Desenvolvedor FullCycle - Arquitetura, desenvolvimento e devops
-
 ## Conhecimentos
-* Mensageria: RabbitMQ/Kafka.
-* Programação: desenvolvimento de sistemas Desktop, Web ou Mobile e modelagem de sistemas.
+* Mensageria: RabbitMQ/Kafka/SQS.
+* Marketplace: AWS.
+* Programação: desenvolvimento de sistemas Desktop, Web e modelagem de sistemas.
 * BI - Power BI e Report Services-PBI Mobile.
 * ETL (Extração, transformação e carregamento de dados) - Job.
-* Data Science (Classificação, Predição e Machine Learning).
+* Desenhos de soluções e arquitetura
+* Finops
 
 ## Tecnologias:
 * Node JS/Nest
-	- Express
-	- TypeScript
-	- Injeção de dependência com Tsyringe
+    - Boas práticas de código
+    - Desenvolvimento seguro
+	- Inversão dependências
+    - Foco em perfomance
+    - Handling de erros
+    - Logging centralizado e customizado de erros
 	- SOLID
 	- Clean Code/Architecture
 	- TDD - testes unitarios com Jest e testes de integração (E2E) com Supertest
@@ -32,10 +33,24 @@
 	- Docker
 	- Autenticação JWT
 	- Documentação com Swagger
-	- AWS - Deploy no EC2, upload de arquivos no S3, configuração de dns no Route 53, banco não relacional com dynamodb
 	- CI/CD - automatização do deploy e pipeline utilizando Github Actions
 	- Rate Limiter (limitador de requisições)
 	- Serverless Framework - automatização e gerenciamento de recursos na cloud
+* AWS
+    - Deploy de máquians variadas
+    - Configuração de dns no Route 53
+    - Banco não relacional com dynamodb, estratégia de caching
+    - Configuração de variáveis globais e secrets
+    - Melhores práticas relacionadas a tracing e observalidade de microserviços Lambda
+* RAG
+    - Projetos utilizando IA e criação de objeto modelados
+    - Utilização de RAG para salvar/recuperar informações em um banco vetorizado
+    - Criação de tools com Python para utilizar dentro de prompts
+    - Múltiplo uso de LLM (OpenAI, Google, AWS, Ollama)
+    - Score das respostas, classificando para respostas mais acertivas
+* Flowise
+    - Criação de fluxos no-code
+    - Criação de middleware para sobreescrita de váriaveis LLM ou rotas customizadas
 * PHP, Laravel, Symfony
 	- Criação de sites.
 	- API rest, com validação JWT.
