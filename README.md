@@ -1,138 +1,52 @@
-### Formado em Sistemas e especializado em Segurança Digital
-### Atualmente estudando para ser arquiteto de soluções e software
+<h1 align="center">Hello, I'm Matheus da Cruz 👋</h1>
 
-## Certificações
-* AWS - Soluctions Architect Associate
-* AWS - Developer Associate
-* AWS - Cloud Practitioner
-* Oracle Certified Foundations Associate
-* Microsoft Office Specialist
+<p align="center">
+  <em>Software Engineer • Tech Content Creator</em>
+</p>
 
-## Conhecimentos
-* Mensageria: RabbitMQ/Kafka/SQS.
-* Marketplace: AWS.
-* Programação: desenvolvimento de sistemas Desktop, Web e modelagem de sistemas.
-* BI - Power BI e Report Services-PBI Mobile.
-* ETL (Extração, transformação e carregamento de dados) - Job.
-* Desenhos de soluções e arquitetura
-* Finops
+---
 
-## Tecnologias:
-* Node JS/Nest
-    - Boas práticas de código
-    - Desenvolvimento seguro
-	- Inversão dependências
-    - Foco em perfomance
-    - Handling de erros
-    - Logging centralizado e customizado de erros
-	- SOLID
-	- Clean Code/Architecture
-	- TDD - testes unitarios com Jest e testes de integração (E2E) com Supertest
-	- REST
-	- TypeORM
-	- Docker
-	- Autenticação JWT
-	- Documentação com Swagger
-	- CI/CD - automatização do deploy e pipeline utilizando Github Actions
-	- Rate Limiter (limitador de requisições)
-	- Serverless Framework - automatização e gerenciamento de recursos na cloud
-* AWS
-    - Deploy de máquians variadas
-    - Configuração de dns no Route 53
-    - Banco não relacional com dynamodb, estratégia de caching
-    - Configuração de variáveis globais e secrets
-    - Melhores práticas relacionadas a tracing e observalidade de microserviços Lambda
-* RAG
-    - Projetos utilizando IA e criação de objeto modelados
-    - Utilização de RAG para salvar/recuperar informações em um banco vetorizado
-    - Criação de tools com Python para utilizar dentro de prompts
-    - Múltiplo uso de LLM (OpenAI, Google, AWS, Ollama)
-    - Score das respostas, classificando para respostas mais acertivas
-* Flowise
-    - Criação de fluxos no-code
-    - Criação de middleware para sobreescrita de váriaveis LLM ou rotas customizadas
-* PHP, Laravel, Symfony
-	- Criação de sites.
-	- API rest, com validação JWT.
-* Vue
-	- Criação de rotas e componentes.
-	- Utilização de API
-	- Manipulação de dados.
-* Java
-	- Orientação a objeto.
-	- Criação de aplicações Web e desktop.
-	- Hibernate(JPA) de ORM.
-	- Servlet com filter.
-	- JSP.
-	- Spring Boot.
-	- Thymeleaf como template.
-	- Maven (Gerenciador de versão dos pacotes).
-	- Jasper Reports
-* Git: versionamento de código.
-* SQL (Oracle, Sql Server, MySQL, MongoDB)
-	- DML.
-	- PL/SQL (Trigger/Procedure).
-* HTML, CSS, JavaScript, jQuery, Bootstrap.
-* Python
-	- Orientação a objeto.
-	- Web scraping.
-	- Multi-thread.
-* Chatbot
-	- DialogFlow
-	
-* C#: criação de aplicativo desktop de CRUD com MySQL e SQLServer.
-* Electron JS: criação de aplicativo desktop utilizando JavaScript.
-* Moodle: plataforma de EAD online.
-* Pentaho Data Integration (Intermediário)
-	- Criação de transformações com steps (busca, data warehouse) e jobs.
-	- Uso de cargas para fase de stage no DW.
-	- Utilização de variáveis para transição de informações durante as transformações.
-	- Consumo de API Rest.
-	- Utilização de chamadas de procedures do banco de dados.
-* Power BI
-	- Importação de dados
-	- Uso de DAX
-	- Criação de dashboards.
+<p align="center">
+  I'm passionate about technology, education, and creativity.  
+  Here you’ll find projects, tutorials, and my experiments with AI, Node.js, Cloud, and more :)
+</p>
 
-## Artigos publicados
-* [Injeção de metadados em um ETL (transformação) utilizando Pentaho (PDI)](https://www.linkedin.com/pulse/inje%C3%A7%C3%A3o-de-metadados-em-um-etl-transforma%C3%A7%C3%A3o-pentaho-pdi-da-cruz/)
-* [Classificação dos limites entre números utilizando Pentaho (PDI)](https://www.linkedin.com/pulse/classifica%C3%A7%C3%A3o-dos-limites-entre-n%C3%BAmeros-utilizando-pentaho-da-cruz/)
-* [Pivot (inversão de linha para coluna) no Pentaho (PDI)](https://www.linkedin.com/pulse/pivot-inverter-linha-para-coluna-pentaho-pdi-matheus-da-cruz/)
-* [Agrupamentos no Pentaho (PDI)](https://www.linkedin.com/pulse/agrupamentos-pentaho-pdi-matheus-da-cruz/)
-* [Análise/correção de erros utilizando Pentaho (PDI)](https://www.linkedin.com/pulse/an%C3%A1lisecorre%C3%A7%C3%A3o-de-erros-utilizando-pentaho-pdi-matheus-da-cruz/)
-* [Como ler arquivo CSV de um ZIP utilizando Pentaho(PDI)?](https://www.linkedin.com/pulse/como-ler-arquivo-csv-de-um-zip-utilizando-pentahopdi-matheus-da-cruz/)
-* [Carga incremental variada usando loop no Pentaho](https://www.linkedin.com/pulse/pentaho-carga-incremental-variada-usando-loop-matheus-da-cruz/)
-* [Projeto de Machine Learning de predição do dataset Iris](https://github.com/Matheuscruztj/Projeto-IRIS)
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-da-cruz-933729104/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@matheuss.cruz">
+    <img src="https://img.shields.io/badge/-Articles-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="mailto:matheus.cbmdk@gmail.com">
+    <img src="https://img.shields.io/badge/-matheus.cbmdk@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
-## Projetos:
-* Melhoria de perfomance e inclusão de módulo no projeto do eSocial (nacional) criado pelo TST (Tribunal Superior do Trabalho). [Link](https://github.com/tst-labs/esocial/pull/298)
+---
 
-* Criação do sistema de apuração de campanha para a Unidade (Broker) da Nestlé – Victória Logística, onde é possível acompanhar a premiação por níveis de venda.
+### 🧠 About Me
 
-* Integração de serviço de mensageria do WhatsApp com chatbot.
+- 🔭 Senior Software Engineer at [Compass.Uol](https://compass.uol/pt/home/)
+- 🏆 AWS Developer/Soluctions Architect Associate Certified
+- 🧑‍🏫 Bachelor's in System Development and Specialization on Web security
 
-* Desenvolvimento do Robo (ChatBot) de suporte para o GLPI (sistema de controle de chamado) com funções: criação de log, triagem de chamados, suporte a api de email, integração com o ERP WinThor.
+---
 
-* Criação de uma ferramenta em Python para ETL (suporte a multi-threading), convertendo dados do banco de dados Oracle para MySql.
+### 💻 Tech Stack Highlights
 
-* Sistema web com funcionalidade de pesquisa por boleto e XML.
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscruztj&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
 
-* Sistema desktop FlexX Suite para os brokers Garoto/Nestlé, que auxilia com os indicadores para gerenciamento de resultados da equipe comercial (exemplo: relatório de corte mensal e identificador de problemas nos pedidos retornados pelo sistema de faturamento).
+---
 
-* Modelo Preditivo utilizando aprendizado de máquina para determinar a cor de uma planta. [Link](https://github.com/Matheuscruztj/Projeto-IRIS/)
+### 🟩 Latest Commit Energy
 
-## Sistemas:
-* [AgendaLive](https://github.com/Matheuscruztj/AgendaLive)
-Sistema de cadastro e listagem de lives, informando quais já foram realizadas ou que ainda irão acontecer pela data cadastrada no sistema.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Matheuscruztj&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
 
-* [DS Delivery](https://github.com/Matheuscruztj/DS_Delivery)
-Sistema 'teste' de delivery totalmente online com escolha de produtos, localização de entrega e exibição simples do carrinho.
-
-* [DevRadar](https://github.com/Matheuscruztj/Semana_Omnistack_10/blob/master/README.md)
-Com o objetivo de desenvolvedores cadastrarem o seu perfil do github juntamente com as suas tecnologias e posições geográficas(latitude e longitude), para que no ambiente web sejam mostrados todos os perfis já cadastrados (com informações de bio e link para o seu perfil) e no ambiente mobile com base na localização geográfica os perfis são exibidos.
-
-* [BeTheHero](https://github.com/Matheuscruztj/Semana_Omnistack_11/)
-Com o objetivo de usuários ajudarem ONG's na resolução de casos de animais que sofreram algum problema.
-
-* [AirCnc](https://github.com/Matheuscruztj/Semana_Omnistack_9/)
-Plataforma de agendamento entre empresas e profissionais freelancers.
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
